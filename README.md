@@ -29,8 +29,6 @@ This project involves a comprehensive competitive market analysis using Power BI
   - Market share percentages.
   - Competitor sales and revenue figures.
   - Regional and product-specific performance metrics.
-- Dataset characteristics:
-  - [Add details about the size, number of columns, or notable data points.]
 
 ## **Steps to Reproduce**
 
